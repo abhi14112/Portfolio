@@ -1,0 +1,30 @@
+.navbar
+{
+    display: flex;
+    color: white;
+    width: 80%;
+    justify-content: space-between;
+    margin: 0 auto;
+    padding: 1rem 0;
+    
+}
+.firstname,.lastname
+{
+    font-weight: 500;
+    font-size: 2rem;
+}
+.lastname
+{
+    color: rgb(189, 19, 19);
+}
+.second ul
+{
+    display: flex;
+    list-style: none;
+    gap: 0 3rem;
+    font-size: 1.3rem;
+
+}
+a{
+    text-decoration: none;
+}

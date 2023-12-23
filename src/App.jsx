@@ -1,7 +1,11 @@
 import React from 'react'
+import Home from './Home'
+import './app.css'
 const App = () => {
   return (
-    <div>Hello</div>
+    <div className='main'>
+        <Home/>
+    </div>
   )
 }
 export default App

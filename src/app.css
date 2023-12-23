@@ -1,0 +1,14 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Sono:wght@500&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Sono', monospace;
+}
+.main{
+    width: 100vw;
+    height: auto;
+    background-color: rgb(32, 31, 31);
+    min-height: 100vh;
+}
