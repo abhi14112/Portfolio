@@ -2,11 +2,13 @@
 {
     display: flex;
     color: white;
+    position: fixed;
     width: 80%;
     justify-content: space-between;
     margin: 0 auto;
     padding: 1rem 0;
-    
+    top: 0px;
+    left: 10%;
 }
 .firstname,.lastname
 {
